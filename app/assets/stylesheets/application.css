@@ -1,3 +1,23 @@
+
+#header {
+  color: black;
+  position: relative;
+  margin-top: 150px;
+  margin-bottom: -15px;
+  left: 500px;
+}
+#input_type {
+  position: relative;
+  left: 500px;
+}
+
+#value {
+  position: relative;
+  left: 500px;
+  margin-top: 5px;
+}
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
